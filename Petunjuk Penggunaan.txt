@@ -1,0 +1,22 @@
+Tugas Besar Matakuliah Desain dan Analisis Algoritma
+Topik: 3.Penyelesaian Minimum Spanning Tree menggunakan Algoritma Prim dan Kruskal
+=========================
+Anggota Kelompok:
+Arif Yulianto | 1301168560 | arify@outlook.co.id
+Amira Nur Khalipah | 1301168559 | amiranurkhalipah@gmail.com
+Ardhi Akmaludin Jadhira | 1301168522 | ardhiakhmal@gmail.com
+=========================
+
+Petunjuk Penggunaan:
+1. Unzip folder TUBES_DAA_MST
+   di dalam zip terdapat laporan dan source code program.
+2. Load project TUBES_DAA_MST di netbeans
+3. Untuk merubah inputan, ubah isi input.txt
+Note: format inputan harus berebentuk matrix (bobot graf yang diubah ke matrix)
+4. Pastikan input.txt berada di lokasi ../NetbeansProjects/TUBES_DAA_MST
+5. Run Program dari netbeans
+6. Output program dapat dilihat di output program di netbeans
+   atau dalam bentuk prim_output.txt dan kruskal_output.txt di folder ../NetbeansProjects/TUBES_DAA_MST
+=========================
+
+Salam Sukses!
